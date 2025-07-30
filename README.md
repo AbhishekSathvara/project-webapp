@@ -7,16 +7,15 @@ Start the server
 ```
 
 
-# Sephora Clone
+# Baou Project Japnish Arora + Abhishek Sathwara 
 
 Sephora is an online e-commerce website for personal care and beauty products. Signup and login functionality , User and admin dashboard , Product and cart page are some of the features. Built the backend via NodeJS and MongoDB. Created the admin dashboard with all functionality Designed product and single product page.
 
-<img src="https://i.ibb.co/9wmJtvy/logo2.png" width="200" height="200px">
 
 
 ## Tech Stack
 
-**Client:** 
+**Frontend:** 
 
 - **React**
 - **Redux Thunk**
@@ -25,7 +24,7 @@ Sephora is an online e-commerce website for personal care and beauty products. S
 - **Chakra UI**
 - **React Icons**
 
-**Server:**
+**Backend:**
 
 - **Node Js**
 - **Mongo DB**
